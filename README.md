@@ -1,7 +1,8 @@
 # Fase 0: Análisis del entorno
-Link figma: https://www.figma.com/file/4Dn5aUg6u5aIOwMsWN9zpi/Untitled?node-id=22%3A67&t=j50585QRSa50voRZ-1  (mapa de navegación, mepa de arquitectura y flujograma)
 
-Link al repositorio: https://github.com/Trabajo-gruupal-empresa/Fase0.git
+## Link al repositorio: https://github.com/Trabajo-gruupal-empresa/Fase0.git
+
+Link figma: https://www.figma.com/file/4Dn5aUg6u5aIOwMsWN9zpi/Untitled?node-id=22%3A67&t=j50585QRSa50voRZ-1  (mapa de navegación, mepa de arquitectura y flujograma)
 
 En el repositorio encontramos un documento con toda la información de nuestra empresa, un video explicativo, y a traves de figma, un flujograma y los mapas de arquitectura y navegación.
 
