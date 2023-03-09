@@ -1,6 +1,8 @@
 # Fase 0: Análisis del entorno
 Link figma: https://www.figma.com/file/4Dn5aUg6u5aIOwMsWN9zpi/Untitled?node-id=22%3A67&t=j50585QRSa50voRZ-1  (mapa de navegación, mepa de arquitectura y flujograma)
 
+Link al repositorio: https://github.com/Trabajo-gruupal-empresa/Fase0.git
+
 En el repositorio encontramos un documento con toda la información de nuestra empresa, un video explicativo, y a traves de figma, un flujograma y los mapas de arquitectura y navegación.
 
 El trabajo tiene como objetivo, diseñar un plan de marketing en el contexto de la dirección estratégica de la empresa; pudiendo alcanzar el resultado de aprendizaje: diseñar una oferta de valor para el cliente, utilizando las distintas herramientas de marketing.
